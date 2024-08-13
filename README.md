@@ -1,6 +1,10 @@
 # High-Level-Design
 
-## [1. Distributed Systems](https://github.com/harithanagubady/High-Level-Design/tree/main/_01_Distributed%20Systems)
+# OUTLINE
+* ### [Distributed Systems](#distributed-systems)
+
+## Distributed Systems
+Notes link [**here**](https://github.com/harithanagubady/High-Level-Design/tree/main/_01_Distributed%20Systems)
 #### [1. Introduction to Distributed Systems](https://github.com/harithanagubady/High-Level-Design/blob/main/_01_Distributed%20Systems/_01_Introduction%20to%20Distributed%20Systems.pdf)
 #### [2. What Distributed Systems Achieve for us?](https://github.com/harithanagubady/High-Level-Design/blob/main/_01_Distributed%20Systems/_02_What%20distributed%20systems%20achieve%20for%20us.pdf)
    1. Fault-tolerance
