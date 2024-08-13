@@ -1,7 +1,8 @@
 # High-Level-Design
 
-1. Introduction to Distributed Systems
-2. What Distributed Systems Achieve for us?
+## [1. Distributed Systems](https://github.com/harithanagubady/High-Level-Design/tree/main/_01_Distributed%20Systems)
+#### [1. Introduction to Distributed Systems](https://github.com/harithanagubady/High-Level-Design/blob/main/_01_Distributed%20Systems/_01_Introduction%20to%20Distributed%20Systems.pdf)
+#### [2. What Distributed Systems Achieve for us?](https://github.com/harithanagubady/High-Level-Design/blob/main/_01_Distributed%20Systems/_02_What%20distributed%20systems%20achieve%20for%20us.pdf)
    1. Fault-tolerance
    2. Reliability
    3. Handling Hardware and Software Faults
@@ -24,18 +25,21 @@
          * Least pending requests
     8. Measuring Load and Performance
     9. Scalability and Load Balancers
-3. Reliable, Scalable and Maintainable Applications
+#### [3. Reliable, Scalable and Maintainable Applications](https://github.com/harithanagubady/High-Level-Design/blob/main/_01_Distributed%20Systems/_03_Reliable%2C%20Scalable%2C%20Maintainable%20Applications.pdf)
    1. RELIABILITY
-      1. Hardware Faults
+      * Hardware Faults
          * Add redundancy
-      2. Software Errors
+      * Software Errors
          * assumptions and interactions, thorough testing, process isolation, crash and restart processes; measuring, monitoring and analysing system behaviour
-      3. Human Errors
+      * Human Errors
          * well-designed abstractions, sandbox environments for experimenting, testing, quick roll-back, monitoring, and good management practices
    2. SCALABILITY
-      1. Describing load - twitter timeline example
-      2. Describing performance - throughput and response time, latency vs response time, SLAs and SLOs, percentiles, scaling
+      * Describing load 
+        * twitter timeline example
+      * Describing performance 
+        * throughput and response time, latency vs response time, SLAs and SLOs, percentiles, scaling
    3. MAINTAINABILITY
-      1. Operability
-      2. Simplicity - abstraction
-      3. Evolvability
+      * Operability
+      * Simplicity 
+        * abstraction
+      * Evolvability
