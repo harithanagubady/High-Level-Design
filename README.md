@@ -14,14 +14,14 @@
     6. Load Balancing in Distributed Systems
     7. Load Balancing Algorithms
        * Application-layer algorithms
-       * Hashing
-       * Endpoint evaluation
+         * Hashing
+         * Endpoint evaluation
        * Network-layer algorithms
-       * Random selection
-       * Round robin
-       * Least connection
-       * Ip hashing
-       * Least pending requests
+         * Random selection
+         * Round robin
+         * Least connection
+         * Ip hashing
+         * Least pending requests
     8. Measuring Load and Performance
     9. Scalability and Load Balancers
 3. Reliable, Scalable and Maintainable Applications
