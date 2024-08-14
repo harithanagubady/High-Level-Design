@@ -15,20 +15,20 @@ Notes link [**here**](https://github.com/harithanagubady/High-Level-Design/tree/
       * SLA
       * SLO
       * SLI
-    5. Scalability
-    6. Load Balancing in Distributed Systems
-    7. Load Balancing Algorithms
-       * Application-layer algorithms
+   5. Scalability
+   6. Load Balancing in Distributed Systems
+   7. Load Balancing Algorithms
+      * Application-layer algorithms
          * Hashing
          * Endpoint evaluation
-       * Network-layer algorithms
+      * Network-layer algorithms
          * Random selection
          * Round robin
          * Least connection
          * Ip hashing
          * Least pending requests
-    8. Measuring Load and Performance
-    9. Scalability and Load Balancers
+   8. Measuring Load and Performance
+   9. Scalability and Load Balancers
 #### [3. Reliable, Scalable and Maintainable Applications](https://github.com/harithanagubady/High-Level-Design/blob/main/_01_Distributed%20Systems/_03_Reliable%2C%20Scalable%2C%20Maintainable%20Applications.pdf)
    1. RELIABILITY
       * Hardware Faults
