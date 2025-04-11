@@ -47,7 +47,7 @@ Notes link [**here**](https://github.com/harithanagubady/High-Level-Design/tree/
       * Simplicity 
         * abstraction
       * Evolvability
-#### [3. Data Models and Query Languages](https://github.com/harithanagubady/High-Level-Design/blob/main/_01_Distributed%20Systems/_04_Data%20models%20and%20Query%20Languages.pdf)
+#### [4. Data Models and Query Languages](https://github.com/harithanagubady/High-Level-Design/blob/main/_01_Distributed%20Systems/_04_Data%20models%20and%20Query%20Languages.pdf)
    1. Relational Model Vs Document Model
       * The Birth of NoSQL
       * The Object-Relational Mismatch
